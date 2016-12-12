@@ -1,0 +1,12 @@
+Theory
+
+All plastics are a dielectric. 
+Given a strong enough electric field they will be attracted or repelled.
+Examing a materials relative permativity we can evaluate it's polarizability.
+
+Example:
+Nylon
+
+
+Once near the electric field deformation of the atom occurs and micro-electric fields begin to form creating the
+static-electric attraction.
